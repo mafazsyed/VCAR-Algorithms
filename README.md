@@ -1,6 +1,7 @@
 # VCAR - Vacuum Cleaning Autonomous Robot
 
-VCAR is an independent personal project, in progress since April 2022, aimed at designing and manufacturing an autonomous robot. The robot has a built-in mini vacuum cleaner and is capable of obstacle avoidance and line/object-following. 
+VCAR is an independent personal project, in progress since April 2022, aimed at designing and manufacturing an autonomous vacuum-cleaning robot.
+
 <img src="https://github.com/mafazsyed/VCAR-Algorithms/assets/120568449/d93e681b-dd87-42d7-aea5-2a57d83b800d" width="800">
 
 ## Specifications
