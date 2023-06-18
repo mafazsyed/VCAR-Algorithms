@@ -11,7 +11,7 @@ VCAR is an independent personal project, in progress since April 2022, aimed at 
 - **Filtered Vacuum:** The robot houses a filtered vacuum for cleaning purposes.
 - **Efficient Debris Disposal:** It is designed for easy and efficient disposal of vacuum-collected debris.
 - **User-Serviceable:** The robot's design allows for user servicing.
-- **Sustainable:** VCAR is designed with sustainability in mind.
+- **Sustainable:** VCAR is designed with sustainability in mind; the materials used for the vacuum will be environmental-friendly.
 
 The exploration algorithms of the robot, which are written in C++, are still undergoing optimization to avoid repetitive scans of the same area and to ensure comprehensive environmental coverage. The vacuum cleaning capability is still in the conceptual stage and will be incorporated atop the existing robot structure. 
 
